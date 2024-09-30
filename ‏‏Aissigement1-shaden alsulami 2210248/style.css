@@ -151,7 +151,7 @@ footer {
 /* Large devices (≥ 992px) */
 @media (max-width: 992px) {
     header h1 {
-        font-size: 5em;
+        font-size: 4em;
     }
 
     header .intro {
