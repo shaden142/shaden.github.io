@@ -155,11 +155,11 @@ footer {
     }
 
     header .intro {
-        font-size: 5.5em;
+        font-size: 2.5em;
     }
 
     h2 {
-        font-size: 2.8em;
+        font-size: 2.0em;
     }
 
     .profile-img {
@@ -171,7 +171,7 @@ footer {
 /* Medium devices (≥ 768px) */
 @media (max-width: 768px) {
     header h1 {
-        font-size: 5em;
+        font-size: 3em;
     }
 
     header .intro {
@@ -179,7 +179,7 @@ footer {
     }
 
     h2 {
-        font-size: 2.2em;
+        font-size: 2.0em;
     }
 
     .profile-img {
@@ -195,7 +195,7 @@ footer {
 /* Small devices (≥ 576px) */
 @media (max-width: 576px) {
     header h1 {
-        font-size: 2.8em;
+        font-size: 2.5em;
     }
 
     header .intro {
